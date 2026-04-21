@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Updates
+- Add incident escalation checklist to docs/octoacme-execution-and-tracking.md
+- Clarify stakeholder review steps in docs/octoacme-project-planning.md
